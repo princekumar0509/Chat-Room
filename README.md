@@ -3,6 +3,9 @@
 ## Description
 Pixy Chat is a real-time chat application that allows users to connect and communicate in a colorful pixel-themed environment. Firebase has been authentication systems, and real-time data handling.
 
+## Live Demo
+Check Out the Live Application: [Pixy Chat](https://chat-room-sable-delta.vercel.app/)
+
 ## Features
 - **User Authentication**: 
   - Email/password registration and login
@@ -92,6 +95,8 @@ Pixy Chat is a real-time chat application that allows users to connect and commu
 
 ## Screenshots
 ![Screenshot from 2025-04-22 00-21-23](https://github.com/user-attachments/assets/bac75b25-9a6a-41ad-8d0a-0f88e0a064a3)
+
+![Screenshot from 2025-04-22 00-22-56](https://github.com/user-attachments/assets/29d6aefc-fbd9-433c-913a-c4e403eded92)
 
 ![Screenshot from 2025-04-22 00-20-33](https://github.com/user-attachments/assets/03f40c56-c89f-4ee7-b57d-f267c6660e6e)
 
